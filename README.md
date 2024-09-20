@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Galev01
+- 👀 I’m interested in Music, App Development, and Web Development
+- 🌱 I’m currently learning Flutter and Dart, Python, etc...
